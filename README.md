@@ -10,9 +10,18 @@ TODO: Instructions will be updated here.
 ```bash
 git clone https://github.com/stephenbaek/dlcourse.git
 ```
+```bash
+cd dlcourse
+```
 
 ```bash
 conda create -n dlcourse python=3.8 ipykernel nb_conda_kernels
+```
+```bash
+conda activate dlcourse
+```
+```bash
+pip install -r requirements.txt
 ```
 
 ### 1.3. &nbsp; Using VirtualEnv
