@@ -6,7 +6,9 @@ This repository contains course materials for the University of Iowa course, ISE
 ### 1.1. &nbsp; Using Google Collaboratory (Recommended for beginners)
 TODO: Instructions will be updated here.
 
-### 1.2. &nbsp; Using Conda
+### 1.2. &nbsp; Using your local machine
+
+#### Clone this repository
 ```bash
 git clone https://github.com/stephenbaek/dlcourse.git
 ```
@@ -14,6 +16,9 @@ git clone https://github.com/stephenbaek/dlcourse.git
 cd dlcourse
 ```
 
+#### Create a virtual environment (optional)
+
+##### Using Conda
 ```bash
 conda create -n dlcourse python=3.8 ipykernel nb_conda_kernels
 ```
@@ -24,5 +29,9 @@ conda activate dlcourse
 pip install -r requirements.txt
 ```
 
-### 1.3. &nbsp; Using VirtualEnv
+##### Using VirtualEnv
 TODO: Instructions will be updated here.
+
+
+#### Install TensorFlow
+
