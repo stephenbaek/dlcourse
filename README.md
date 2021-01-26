@@ -8,7 +8,7 @@ TODO: Instructions will be updated here.
 
 ### 1.2. &nbsp; Using Conda
 ```bash
-conda create -n dlcourse python=3.8
+conda create -n dlcourse python=3.8 ipykernel nb_conda_kernels
 ```
 
 ### 1.3. &nbsp; Using VirtualEnv
