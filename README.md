@@ -8,6 +8,10 @@ TODO: Instructions will be updated here.
 
 ### 1.2. &nbsp; Using Conda
 ```bash
+git clone https://github.com/stephenbaek/dlcourse.git
+```
+
+```bash
 conda create -n dlcourse python=3.8 ipykernel nb_conda_kernels
 ```
 
