@@ -3,8 +3,10 @@ This repository contains course materials for the University of Iowa course, ISE
 
 ## 1. &nbsp; Getting Started using Google Colab (Recommended)
 The easiest way to get started with this course is by simply clicking the links below. These links will lead you to a Google Colab notebook containing a lab material corresponding to the lab session you selected.
-[Lab 00. Crash Course on Python](https://colab.research.google.com/github/stephenbaek/dlcourse/blob/main/notebooks/L00_Crash_Course_on_Python/python_basics.ipynb)
-[Lab 01. Hello World](https://colab.research.google.com/github/stephenbaek/dlcourse/blob/main/notebooks/L01_Hello_World/hello_world.ipynb)
+
+- [Lab 00. Crash Course on Python](https://colab.research.google.com/github/stephenbaek/dlcourse/blob/main/notebooks/L00_Crash_Course_on_Python/python_basics.ipynb)
+- [Lab 01. Hello World](https://colab.research.google.com/github/stephenbaek/dlcourse/blob/main/notebooks/L01_Hello_World/hello_world.ipynb)
+
 TODO: More to come. Stay tuned!
 
 ## 2. &nbsp; Getting Started using Your Own Computer
