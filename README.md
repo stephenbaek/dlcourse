@@ -1,4 +1,4 @@
-# ISE:6380 Deep Learning (Stephen Baek; University of Iowa)
+# ISE:6380 Deep Learning (University of Iowa)
 This repository contains course materials for the University of Iowa course, ISE:6380 Deep Learning, by Prof. [Stephen Baek](http://www.stephenbaek.com). Free of use for non-commercial/commercial purposes.
 
 ## 1. &nbsp; Getting Started using Google Colab (Recommended)
