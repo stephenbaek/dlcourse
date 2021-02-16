@@ -6,6 +6,7 @@ The easiest way to get started with this course is by simply clicking the links 
 
 - [Lab 00. Crash Course on Python](https://colab.research.google.com/github/stephenbaek/dlcourse/blob/main/notebooks/L00_Crash_Course_on_Python/python_basics.ipynb)
 - [Lab 01. Hello World](https://colab.research.google.com/github/stephenbaek/dlcourse/blob/main/notebooks/L01_Hello_World/hello_world.ipynb)
+- [Lab 02. Cats and Dogs](https://colab.research.google.com/github/stephenbaek/dlcourse/blob/main/notebooks/L02_Cats_and_Dogs/simple_classifier.ipynb)
 
 TODO: More to come. Stay tuned!
 
